@@ -1,0 +1,6 @@
+@ExemploAPISharp_HostAddress = http://localhost:5117
+
+GET {{ExemploAPISharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
